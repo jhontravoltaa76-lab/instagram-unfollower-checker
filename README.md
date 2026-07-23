@@ -13,6 +13,19 @@
 
 ## Demo
 
+![image alt](https://github.com/jhontravoltaa76-lab/instagram-unfollower-checker/blob/ff82dd7f8d2b6b9be0129febce4045429ed09a5b/public/Tampilan%20Web%20RavynSmith-Analyze.png)
+
+## Instalasi (Menjalankan Secara Lokal)
+
+Tidak perlu instalasi apa pun — cukup buka file HTML di browser:
+
+```bash
+git clone https://github.com/username/insta-analyze.git
+cd insta-analyze
+# buka index.html langsung di browser, atau jalankan local server:
+python3 -m http.server 8000
+```
+
 
 ## Cara Menggunakan
 
@@ -30,22 +43,9 @@
 10. Hasil analisis akan langsung keluar 
 
 
-## Instalasi (Menjalankan Secara Lokal)
-
-Tidak perlu instalasi apa pun — cukup buka file HTML di browser:
-
-```bash
-git clone https://github.com/username/insta-analyze.git
-cd insta-analyze
-# buka index.html langsung di browser, atau jalankan local server:
-python3 -m http.server 8000
-```
-
-
 ## Kontribusi
 
 Kontribusi, laporan bug, dan saran fitur sangat diterima!
-
 1. Fork repository ini
 2. Buat branch baru (`git checkout -b fitur-baru`)
 3. Commit perubahan Anda (`git commit -m 'Menambahkan fitur baru'`)
