@@ -26,12 +26,15 @@ git clone https://github.com/username/insta-analyze.git
 ```
 cd insta-analyze
 ```
+
 # buka index.html langsung di browser, atau jalankan local server:
+
 ```
 python3 -m http.server 8000
 ```
 
 **Atau buka via Github Pages** 
+
 ```
 https://jhontravoltaa76-lab.github.io/instagram-unfollower-checker/
 ```
