@@ -19,16 +19,10 @@
 **1. Menjalankan Secara Lokal**
 
 Tidak perlu instalasi apa pun — cukup buka file HTML di browser:
-
 ```
 git clone https://github.com/username/insta-analyze.git
-```
-```
 cd insta-analyze
-```
-buka index.html langsung di browser, atau jalankan local server:
-
-```
+#buka index.html langsung di browser, atau jalankan local server:
 python3 -m http.server 8000
 ```
 
