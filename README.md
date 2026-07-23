@@ -16,7 +16,7 @@
 ![image alt](https://github.com/jhontravoltaa76-lab/instagram-unfollower-checker/blob/166c868a9901d620eb954b09e7cd73779d21c640/public/Tampilan%20Web%20RavynSmith-Analyze.png)
 
 ## Instalasi 
-**Menjalankan Secara Lokal**
+**1. Menjalankan Secara Lokal**
 
 Tidak perlu instalasi apa pun — cukup buka file HTML di browser:
 
@@ -32,7 +32,7 @@ buka index.html langsung di browser, atau jalankan local server:
 python3 -m http.server 8000
 ```
 
-**Atau buka via Github Pages** 
+**2. Atau buka via Github Pages** 
 
 ```
 https://jhontravoltaa76-lab.github.io/instagram-unfollower-checker/
