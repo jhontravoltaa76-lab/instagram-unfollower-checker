@@ -13,7 +13,7 @@
 
 ## Demo
 
-![image alt](https://github.com/jhontravoltaa76-lab/instagram-unfollower-checker/blob/ff82dd7f8d2b6b9be0129febce4045429ed09a5b/public/Tampilan%20Web%20RavynSmith-Analyze.png)
+![image alt](https://github.com/jhontravoltaa76-lab/instagram-unfollower-checker/blob/166c868a9901d620eb954b09e7cd73779d21c640/public/Tampilan%20Web%20RavynSmith-Analyze.png)
 
 ## Instalasi (Menjalankan Secara Lokal)
 
