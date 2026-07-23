@@ -26,7 +26,7 @@ cd insta-analyze
 python3 -m http.server 8000
 ```
 
-**Atau langsung akses web nya saja** 
+**Atau buka via Github Pages** 
 ```
 https://jhontravoltaa76-lab.github.io/instagram-unfollower-checker/
 ```
